@@ -1,2 +1,2 @@
 console.log("Hello from Javascript")
-// alert("Welcome to our elephant seal data visualization!")
+// alert("Welcome to Art for Science Communication!")
