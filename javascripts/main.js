@@ -27,4 +27,8 @@ let csv_data = d3.csv("/data/artists_data.csv", function(data) {
     }
 });
 
+csv_data.then(function(result){
+    console.log(result)
+});
+
 console.log(csv_data)
