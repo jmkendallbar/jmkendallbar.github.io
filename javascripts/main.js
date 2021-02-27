@@ -67,7 +67,7 @@ catchKelp()
 // Data cleaned from https://datadryad.org/stash/dataset/doi:10.7291/D1PP47
 
 async function getData() {
-    const response = await fetch("/data/Elephant Seal Census Data_smaller.csv");
+    const response = await fetch("/data/Elephant Seal Census Data_small.csv");
     const census_data = await response.text();
     // console.log(census_data); // Preview data
     // Now parsing the data with separators
@@ -97,47 +97,58 @@ getData()
 const xlabels = [];
 const pop_estimate = [];
 
-MakeChart();
+// MakeChart();
 
-// Charting example with Chart.js
-async function MakeChart() {
-    await getData()
-    const ctx = document.getElementById('chart').getContext('2d');
-    const myChart = new Chart(ctx, {
-        type: 'bar',
-        data: {
-            labels: xlabels,
-            datasets: [{
-                label: 'Population Estimate',
-                data: pop_estimate,
-                backgroundColor: [
-                    'rgba(255, 99, 132, 0.2)',
-                    'rgba(54, 162, 235, 0.2)',
-                    'rgba(255, 206, 86, 0.2)',
-                    'rgba(75, 192, 192, 0.2)',
-                    'rgba(153, 102, 255, 0.2)',
-                    'rgba(255, 159, 64, 0.2)'
-                ],
-                borderColor: [
-                    'rgba(255, 99, 132, 1)',
-                    'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)',
-                    'rgba(75, 192, 192, 1)',
-                    'rgba(153, 102, 255, 1)',
-                    'rgba(255, 159, 64, 1)'
-                ],
-                borderWidth: 1
-            }]
-        },
-        options: {
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero: true
-                    }
-                }]
-            }
-        }
-    });
+// // Charting example with Chart.js
+// async function MakeChart() {
+//     await getData()
+//     const ctx = document.getElementById('chart').getContext('2d');
+//     const myChart = new Chart(ctx, {
+//         type: 'bar',
+//         data: {
+//             labels: xlabels,
+//             datasets: [{
+//                 label: 'Population Estimate',
+//                 data: pop_estimate,
+//                 backgroundColor: [
+//                     'rgba(255, 99, 132, 0.2)',
+//                     'rgba(54, 162, 235, 0.2)',
+//                     'rgba(255, 206, 86, 0.2)',
+//                     'rgba(75, 192, 192, 0.2)',
+//                     'rgba(153, 102, 255, 0.2)',
+//                     'rgba(255, 159, 64, 0.2)'
+//                 ],
+//                 borderColor: [
+//                     'rgba(255, 99, 132, 1)',
+//                     'rgba(54, 162, 235, 1)',
+//                     'rgba(255, 206, 86, 1)',
+//                     'rgba(75, 192, 192, 1)',
+//                     'rgba(153, 102, 255, 1)',
+//                     'rgba(255, 159, 64, 1)'
+//                 ],
+//                 borderWidth: 1
+//             }]
+//         },
+//         options: {
+//             scales: {
+//                 yAxes: [{
+//                     ticks: {
+//                         beginAtZero: true
+//                     }
+//                 }]
+//             }
+//         }
+//     });
+// }
+
+const api_url = 'https://api.wheretheiss.at/v1/satellites/25544'
+async function getISS() {
+    const response = await fetch(api_url); //fetching API and storing in "response"
+    const ISS_data = await response.json(); //putting response into ISS_data
+    const {latitude, longitude} = ISS_data; //destructures JSON to put each into own variable
+    console.log(ISS_data);
+    document.getElementById('lat').textContent = latitude;
+    document.getElementById('lon').textContent = longitude;
 }
 
+getISS();
