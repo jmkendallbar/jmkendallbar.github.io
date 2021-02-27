@@ -82,7 +82,7 @@ async function getData() {
         const population = columns[11];
         xlabels.push(Census_ID);
         pop_estimate.push(population);
-        console.log(Census_ID,Observer);
+        // console.log(Census_ID,Observer);
     });
 };
 
