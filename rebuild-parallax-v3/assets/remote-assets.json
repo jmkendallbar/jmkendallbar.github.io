@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "sleep-diagram",
+    "label": "Marine mammal sleep diagram",
+    "url": "https://static.wixstatic.com/media/3ef803_0922cc1b254347f19267496a5f1dd6d8~mv2.jpg/v1/fill/w_561%2Ch_269%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/00_SleepDiagram_JessicaKendall-Bar.jpg",
+    "page": "sleep-at-sea"
+  },
+  {
+    "slug": "sws-snapshot",
+    "label": "SWS sleeping dive snapshot",
+    "url": "https://static.wixstatic.com/media/3ef803_3788d74fd6654e6fa244eb4ea005f79c~mv2.jpg/v1/crop/x_0%2Cy_0%2Cw_1518%2Ch_1080/fill/w_257%2Ch_183%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/02_01_SleepAtSea_SleepingDiveAnimation_SWS-Snapshot.jpg",
+    "page": "sleep-at-sea"
+  },
+  {
+    "slug": "rem-snapshot",
+    "label": "REM spiral snapshot",
+    "url": "https://static.wixstatic.com/media/3ef803_06cd875e50484772bb985ccb49214923~mv2.jpg/v1/crop/x_0%2Cy_0%2Cw_1517%2Ch_1080/fill/w_257%2Ch_183%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/02_02_SleepAtSea_SleepingDiveAnimation_SleepSpiral-Snapshot.jpg",
+    "page": "sleep-at-sea"
+  },
+  {
+    "slug": "sleep-summary",
+    "label": "Sleep summary diagram",
+    "url": "https://static.wixstatic.com/media/3ef803_bdcbfda8d8bb4dde877f71ae2bafcde9~mv2.jpg/v1/crop/x_0%2Cy_0%2Cw_1917%2Ch_949/fill/w_679%2Ch_338%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/03_SleepSummaryDiagram_JessicaKendall-Bar.jpg",
+    "page": "sleep-at-sea"
+  },
+  {
+    "slug": "lightscapes-composite",
+    "label": "Composite elephant seals",
+    "url": "https://static.wixstatic.com/media/3ef803_6ad54fb63bfd4cd09453489b3a1c629b~mv2.jpg/v1/crop/x_679%2Cy_625%2Cw_8741%2Ch_5304/fill/w_980%2Ch_594%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/composite%20elephant%20seals.jpg",
+    "page": "lightscapes-of-fear"
+  },
+  {
+    "slug": "resting-seal",
+    "label": "Resting seal illustration",
+    "url": "https://static.wixstatic.com/media/3ef803_123e0d65c2794f59a143ef61c07fb664~mv2.png/v1/fill/w_650%2Ch_270%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/restingv2trans.png",
+    "page": "lightscapes-of-fear"
+  },
+  {
+    "slug": "marla-rainbow",
+    "label": "Looking for Marla rainbow artwork",
+    "url": "https://static.wixstatic.com/media/3ef803_094d53cc413b474d9e9115c941e3563b~mv2.jpg/v1/fill/w_274%2Ch_274%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3ef803_094d53cc413b474d9e9115c941e3563b~mv2.jpg",
+    "page": "looking-for-marla"
+  },
+  {
+    "slug": "woodburning-deep-sea",
+    "label": "Deep sea wood art",
+    "url": "https://static.wixstatic.com/media/3ef803_bbc460b1edcc4660be89f40412e66a76~mv2.jpg/v1/fill/w_980%2Ch_980%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3ef803_bbc460b1edcc4660be89f40412e66a76~mv2.jpg",
+    "page": "art"
+  },
+  {
+    "slug": "jelly-photo",
+    "label": "Jelly photo",
+    "url": "https://static.wixstatic.com/media/3ef803_901248fbdad64b98b93464146b7fe8f7~mv2_d_5596_3731_s_4_2.jpg/v1/fill/w_313%2Ch_283%2Cq_90%2Cenc_avif%2Cquality_auto/3ef803_901248fbdad64b98b93464146b7fe8f7~mv2_d_5596_3731_s_4_2.jpg",
+    "page": "photography"
+  },
+  {
+    "slug": "water-texture",
+    "label": "Underwater light texture",
+    "url": "https://static.wixstatic.com/media/3ef803_71b5e2d412b7493f80ee7f1e6b6e2102~mv2_d_3964_5946_s_4_2.jpg/v1/fill/w_665%2Ch_997%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3ef803_71b5e2d412b7493f80ee7f1e6b6e2102~mv2_d_3964_5946_s_4_2.jpg",
+    "page": "about"
+  }
+]

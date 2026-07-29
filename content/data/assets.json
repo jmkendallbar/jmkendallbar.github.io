@@ -1,0 +1,142 @@
+[
+  {
+    "page": "home/sleep",
+    "label": "Sleep spiral hero",
+    "url": "https://static.wixstatic.com/media/3ef803_365d0985d0fe4d22ba43ce2fa0e46909~mv2.jpg/v1/fill/w_393%2Ch_541%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3ef803_365d0985d0fe4d22ba43ce2fa0e46909~mv2.jpg",
+    "type": "image",
+    "notes": "Public Wix derivative URL; use as temporary reference, not stable archival master."
+  },
+  {
+    "page": "about",
+    "label": "JKB headshot / underwater portrait",
+    "url": "https://static.wixstatic.com/media/3ef803_4d04c70ff0d24a29aa48bfd9b7e2f5b2~mv2.jpg/v1/crop/x_1295%2Cy_0%2Cw_1608%2Ch_2324/fill/w_276%2Ch_399%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/jkb3.jpg",
+    "type": "image",
+    "notes": "About page image."
+  },
+  {
+    "page": "about",
+    "label": "water texture/hero",
+    "url": "https://static.wixstatic.com/media/3ef803_71b5e2d412b7493f80ee7f1e6b6e2102~mv2_d_3964_5946_s_4_2.jpg/v1/fill/w_665%2Ch_997%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3ef803_71b5e2d412b7493f80ee7f1e6b6e2102~mv2_d_3964_5946_s_4_2.jpg",
+    "type": "image",
+    "notes": "About page background/visual."
+  },
+  {
+    "page": "sleep-at-sea",
+    "label": "Sleep spiral snapshot",
+    "url": "https://static.wixstatic.com/media/3ef803_06cd875e50484772bb985ccb49214923~mv2.jpg/v1/fill/w_588%2Ch_331%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3ef803_06cd875e50484772bb985ccb49214923~mv2.jpg",
+    "type": "image",
+    "notes": "Sleep at Sea visualization snapshot."
+  },
+  {
+    "page": "sleep-at-sea",
+    "label": "Marine mammal sleep diagram",
+    "url": "https://static.wixstatic.com/media/3ef803_0922cc1b254347f19267496a5f1dd6d8~mv2.jpg/v1/fill/w_561%2Ch_269%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/00_SleepDiagram_JessicaKendall-Bar.jpg",
+    "type": "image",
+    "notes": "Sleep strategy comparison graphic."
+  },
+  {
+    "page": "sleep-at-sea",
+    "label": "SWS sleeping dive snapshot",
+    "url": "https://static.wixstatic.com/media/3ef803_3788d74fd6654e6fa244eb4ea005f79c~mv2.jpg/v1/crop/x_0%2Cy_0%2Cw_1518%2Ch_1080/fill/w_257%2Ch_183%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/02_01_SleepAtSea_SleepingDiveAnimation_SWS-Snapshot.jpg",
+    "type": "image",
+    "notes": "Small thumbnail derivative."
+  },
+  {
+    "page": "sleep-at-sea",
+    "label": "REM sleep spiral snapshot thumbnail",
+    "url": "https://static.wixstatic.com/media/3ef803_06cd875e50484772bb985ccb49214923~mv2.jpg/v1/crop/x_0%2Cy_0%2Cw_1517%2Ch_1080/fill/w_257%2Ch_183%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/02_02_SleepAtSea_SleepingDiveAnimation_SleepSpiral-Snapshot.jpg",
+    "type": "image",
+    "notes": "Small thumbnail derivative."
+  },
+  {
+    "page": "sleep-at-sea",
+    "label": "3D scene portrait",
+    "url": "https://static.wixstatic.com/media/3ef803_33705daf61d142869668802b23623c04~mv2.png/v1/crop/x_84%2Cy_0%2Cw_528%2Ch_792/fill/w_225%2Ch_338%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3D_Scene_Portrait4.png",
+    "type": "image",
+    "notes": "3D seal path scene."
+  },
+  {
+    "page": "sleep-at-sea",
+    "label": "Sleep time summary diagram",
+    "url": "https://static.wixstatic.com/media/3ef803_bdcbfda8d8bb4dde877f71ae2bafcde9~mv2.jpg/v1/crop/x_0%2Cy_0%2Cw_1917%2Ch_949/fill/w_679%2Ch_338%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/03_SleepSummaryDiagram_JessicaKendall-Bar.jpg",
+    "type": "image",
+    "notes": "Science summary visual."
+  },
+  {
+    "page": "sleep-at-sea",
+    "label": "Sleep spiral overhead",
+    "url": "https://static.wixstatic.com/media/3ef803_779ea6c6fa8b454c920dc67ae4732e68~mv2.jpg/v1/fill/w_980%2Ch_713%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3ef803_779ea6c6fa8b454c920dc67ae4732e68~mv2.jpg",
+    "type": "image",
+    "notes": "Large sleep spiral render."
+  },
+  {
+    "page": "lightscapes-of-fear",
+    "label": "Composite elephant seals",
+    "url": "https://static.wixstatic.com/media/3ef803_6ad54fb63bfd4cd09453489b3a1c629b~mv2.jpg/v1/crop/x_679%2Cy_625%2Cw_8741%2Ch_5304/fill/w_980%2Ch_594%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/composite%20elephant%20seals.jpg",
+    "type": "image",
+    "notes": "Lightscapes hero."
+  },
+  {
+    "page": "lightscapes-of-fear",
+    "label": "Resting seal transparent-ish",
+    "url": "https://static.wixstatic.com/media/3ef803_123e0d65c2794f59a143ef61c07fb664~mv2.png/v1/fill/w_650%2Ch_270%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/restingv2trans.png",
+    "type": "image",
+    "notes": "Seal illustration."
+  },
+  {
+    "page": "lightscapes-of-fear",
+    "label": "Sleep Fig for Animation",
+    "url": "https://static.wixstatic.com/media/3ef803_3cdf075eceaa4454b6343b6caf1c6f3f~mv2.png/v1/fill/w_876%2Ch_790%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Sleep%20Fig_for_Animation.png",
+    "type": "image",
+    "notes": "Buoyancy/risk visual."
+  },
+  {
+    "page": "lightscapes-of-fear",
+    "label": "Sleeping seal icon",
+    "url": "https://static.wixstatic.com/media/3ef803_1ee890b20fb343b8a1cd1e30dff78ff3~mv2.png/v1/fill/w_450%2Ch_350%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/esealfinalicon2.png",
+    "type": "image",
+    "notes": "Seal icon."
+  },
+  {
+    "page": "lightscapes-of-fear",
+    "label": "Swimming seal icon",
+    "url": "https://static.wixstatic.com/media/3ef803_560aac1d42a1482d9eecd8035785cb31~mv2.png/v1/fill/w_600%2Ch_390%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/esealfinalicon11.png",
+    "type": "image",
+    "notes": "Seal icon."
+  },
+  {
+    "page": "looking-for-marla",
+    "label": "Marla rainbow artwork",
+    "url": "https://static.wixstatic.com/media/3ef803_094d53cc413b474d9e9115c941e3563b~mv2.jpg/v1/fill/w_274%2Ch_274%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3ef803_094d53cc413b474d9e9115c941e3563b~mv2.jpg",
+    "type": "image",
+    "notes": "Book image."
+  },
+  {
+    "page": "looking-for-marla",
+    "label": "Pride parade image",
+    "url": "https://static.wixstatic.com/media/11062b_adf8a5b6fe91460a89adbf38e4368df5~mv2.jpg/v1/fill/w_432%2Ch_288%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/11062b_adf8a5b6fe91460a89adbf38e4368df5~mv2.jpg",
+    "type": "image",
+    "notes": "Stock/Pride visual."
+  },
+  {
+    "page": "looking-for-marla",
+    "label": "Books stocked photo",
+    "url": "https://static.wixstatic.com/media/3ef803_4693fc0bac51416e92781e8165082f37~mv2.jpg/v1/fill/w_274%2Ch_342%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3ef803_4693fc0bac51416e92781e8165082f37~mv2.jpg",
+    "type": "image",
+    "notes": "Book inventory/order photo."
+  },
+  {
+    "page": "visualizing-life-in-the-deep",
+    "label": "Paper screenshot",
+    "url": "https://static.wixstatic.com/media/3ef803_8b96909362e4481fb89a8288b4e18430~mv2.jpg/v1/crop/x_21%2Cy_2%2Cw_756%2Ch_177/fill/w_324%2Ch_76%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Paper%20Screenshot_JPG.jpg",
+    "type": "image",
+    "notes": "Paper card screenshot."
+  },
+  {
+    "page": "visualizing-life-in-the-deep",
+    "label": "GitHub screenshot",
+    "url": "https://static.wixstatic.com/media/3ef803_ce8b2eb59008448c81190fc8b37ef103~mv2.jpg/v1/crop/x_123%2Cy_65%2Cw_682%2Ch_235/fill/w_221%2Ch_76%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Github%20Screenshot_JPG.jpg",
+    "type": "image",
+    "notes": "Github card screenshot."
+  }
+]

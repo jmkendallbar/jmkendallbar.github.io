@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "home-public-main",
+    "url": "https://www.jessiekb.com/",
+    "title": "Jessica Kendall-Bar | Art + Science",
+    "status": "captured",
+    "priority": "keep but redesign as integrated homepage",
+    "section": "home",
+    "summary": "Main homepage combining research, sleep at sea, visualizations, publications, videos, maps, and infographics.",
+    "body": "# Jessica Kendall-Bar | ART + SCIENCE\nmarine biologist & science communicator\n\n## Welcome\nMy research combines engineering, data science, ecology, and visualization to measure behavior and physiology of marine animals in a changing climate. For my dissertation, I developed a non-invasive system to record and visualize the sleep patterns of seals at sea published in Science.\n\n## An Interdisciplinary Approach\n\n### Design\nEngineer new biosensors.\n\n### Visualize\nSee invisible behavior and physiology.\n\n### Apply\nModels to go from individuals to ecosystems.\n\n### Communicate\nScience communication to maximize impact.\n\n## Sleep at sea\nAs increasing human impact coincides with changing ecosystems, it is important to assess how our activities affect animals' natural behavior. Marine mammal sleep had only been studied in the lab. For my dissertation, I combined art, engineering, and biology to develop a system to monitor and visualize the sleep patterns of seals at sea. These tools allow us to learn more about where, when, and how animals sleep at sea so that we can better manage and protect their critical resting habitats.\n\n### Design\nI designed a surface-mounted system for non-invasive recordings of sleep at sea.\n\nKendall-Bar et al. Eavesdropping on the Brain at Sea. Animal Biotelemetry (2022).\n\n### Visualize\nI designed a visualization toolbox to allow us to see behavior alongside neurological state.\n\nKendall-Bar et al. Visualizing Life in the Deep. IEEE VIS (2021).\n\n### Apply\nI applied EEG-derived sleep patterns of wild seals to interpret sleep patterns at the population level.\n\nKendall-Bar et al. Brain activity of diving seals. Science (2023).\n\n## Science Communication & Data Visualization\nVideos, animations, public lectures, maps, and infographics that use data, art, and underwater cinematography to tell stories about science."
+  },
+  {
+    "slug": "about",
+    "url": "https://www.jessiekb.com/about",
+    "title": "About",
+    "status": "captured",
+    "priority": "update title/appointment and add lab CTA",
+    "section": "bio",
+    "summary": "Short bio, scholar link, CV, social/contact links.",
+    "body": "# About\nDr. Jessica Kendall-Bar is a Schmidt AI in Science Postdoctoral Fellow at Scripps Institution of Oceanography, UC San Diego. Her research combines engineering, data science, ecology, and visualization to measure behavior and physiology of marine animals amidst a changing climate. For her dissertation, she developed a non-invasive system to record and visualize the first recordings of marine mammal sleep at sea published in Science.\n\nShe is an award-winning scientist, artist, and science communicator who designs data visualization courses, large-scale exhibits, immersive analytical tools, and decision support tools. Her data visualizations, published in local news outlets, The New York Times, and The Atlantic, have informed international policy in domains ranging from marine mammal conservation to coral reef restoration.\n\nSee Jessica's Google Scholar profile.\n\nDownload CV."
+  },
+  {
+    "slug": "sleep-at-sea",
+    "url": "https://www.jessiekb.com/sleep-at-sea",
+    "title": "Sleep at Sea",
+    "status": "captured",
+    "priority": "feature research case study",
+    "section": "research",
+    "summary": "Science 2023 sleep-at-sea page with explainer graphics, press links, and key findings.",
+    "body": "# Sleep at Sea\nBrain activity of diving seals reveals short sleep cycles at depth.\n\n## Dive into the study\n- Science paper\n- ResearchGate PDF\n- See visualizations\n- See press coverage\n\nRead coverage by Science, CNN, NPR, BBC, The New York Times, The Atlantic, The Washington Post, and National Geographic.\n\nWhen you imagine a sleeping seal, you might think of a seal sleeping on the beach or bobbing in shallow water. You might have seen videos of harbor seals floating in the kelp as they sleep, but what about when a northern elephant seal spends 8 months at sea in search of food, traveling over 10,000 km?\n\nDolphins and fur seals can sleep in half of their brain at a time allowing them to monitor predators while they sleep, but a true seal, like an elephant seal or a harbor seal, sleeps just like us, shutting off their brain completely.\n\nOur new study, recently published in Science, shares just how little seals sleep at sea in the first recordings of sleep for a wild marine mammal. We equipped northern elephant seals with sleep monitors as they dove in the deep Monterey canyon to find that they sleep in short naps deep below the ocean’s surface.\n\nThey dive down, start to glide, their brain waves sync up into large slow waves. Then, they transition to REM sleep where they flip upside down and spin a circle, falling like a leaf. Seals sleeping in the open ocean were upside down 100% of REM sleep time, suggesting that just like us, they become paralyzed during REM.\n\nSleeping at sea not only means they’re vulnerable to predation, but they’re also missing out on foraging opportunities. Seals slept around 10 hours a day on land, but limited sleep to less than 2 hours a day while at sea.\n\nUsing the long-term, 20-year elephant seal dataset curated by the Costa lab at UC Santa Cruz, we developed an algorithm that estimates sleep from time-depth records with 93% accuracy. We analyzed over 3 million dives, identifying over 500,000 sleeping dives for 334 seals on trips lasting up to 295 days.\n\nAcross several months at sea, elephant seals averaged only 2 hours of sleep per day, exhibiting unparalleled flexibility in sleep duration and rivaling the record for the least sleep among mammals.\n\nBy learning more about where, when, and how animals sleep at sea, we can improve the management and protection of their critical resting habitats.\n\n## Citation\nKendall-Bar, JM; Williams, TM; Mukherji, R; Lozano, DA; Pitman, JK; Holser, RR; Keates, T; Beltran, RS; Robinson, PW; Crocker, DE; Adachi, T; Lyamin, OI; Vyssotski, AL; Costa, DP (2023). Brain activity of diving seals reveals short sleep cycles at depth. Science. Online at https://www.science.org/doi/10.1126/science.adf0566"
+  },
+  {
+    "slug": "visualizing-life-in-the-deep",
+    "url": "https://www.jessiekb.com/visualizing-life-in-the-deep",
+    "title": "Visualizing Life in the Deep",
+    "status": "captured",
+    "priority": "fold into portfolio/research methods",
+    "section": "research + portfolio",
+    "summary": "Small project page linking paper, news article, and GitHub code.",
+    "body": "# Visualizing Life in the Deep\nA creative pipeline for data-driven animations to facilitate marine mammal research, outreach, and conservation.\n\nLinks:\n- Read our paper\n- Read news article\n- Use our code\n\nSuggested redesign: make this a case-study page under Science Visualization / Tools, with the IEEE VIS paper, GitHub repository, video abstract, and example animations."
+  },
+  {
+    "slug": "lightscapes-of-fear",
+    "url": "https://www.jessiekb.com/lightscapes-of-fear",
+    "title": "Lightscapes of Fear",
+    "status": "captured",
+    "priority": "portfolio case study",
+    "section": "research + data visualization",
+    "summary": "Interactive map/explainer for female northern elephant seal behavioral rest and risk/reward tradeoffs.",
+    "body": "# Lightscapes of Fear\nBehavioral Rest at Sea\n\nThis interactive map displays the tracks, trip duration, and dive metadata for 8 of the 71 female northern elephant seals incorporated in a study investigating the risk-reward tradeoffs of behavioral rest at sea.\n\nData from time-depth recorder and satellite instruments were processed in MATLAB and converted into KML files. Individual KML files were imported into a single KMZ zipped file to be imported into Google Maps' My Maps tool. Metadata was exported from MATLAB into a CSV and paired to the data layer containing each respective animal's track.\n\nThis interactive data visualization was created to accompany the Science Advances publication \"Lightscapes of Fear: How mesopredators balance starvation and predation in the open ocean.\"\n\nMap, infographics, and cover art by Jessica Kendall-Bar. Data analysis by Roxanne Beltran. Illustrations by Danielle Dube, Art-Science Residency with the Norris Center for Natural History.\n\n## Pick a Seal\nClick on a female northern elephant seal's track in the interactive map to learn her TOPPID, trip duration, departure date, arrival date, number of rest dives, and total number of dives.\n\n## Follow Her Journey\nWhile at sea, elephant seals perform transit dives, benthic dives, foraging dives, and drift dives. Drift dives are dives where they swim down to 200–300 meters, turn upside down, and drift for several minutes before swimming back to the surface.\n\nAs the seal gains body fat, her body composition shifts and she becomes less dense. Once she gains enough fat to become positively buoyant, she starts to float up toward the surface instead of sinking to the safety of darkness. She shifts her sleep schedule earlier so she can sleep in darkness, sacrificing valuable hours of nighttime foraging. She also begins her drift dives deeper so she ends at about the same depth as if negatively buoyant. By tracking buoyancy over time, the study tracks risk-taking behavior over months at sea."
+  },
+  {
+    "slug": "undergraduate-research",
+    "url": "https://www.jessiekb.com/undergraduate-research",
+    "title": "Undergraduate Research",
+    "status": "captured",
+    "priority": "archive page; maybe lower nav priority",
+    "section": "research archive",
+    "summary": "UC Berkeley undergraduate research, early publications, cruises, internships.",
+    "body": "# Undergraduate Research\nUC Berkeley\n\n## Marine Mammal Sleep Studies in Russia — Summer 2016\nEye State and Unihemispheric Sleep in the Northern Fur Seal. Advisor: Oleg Lyamin, Center for Sleep Research, UCLA School of Medicine.\n\nI spent two months in Russia studying sleep in marine mammals, including northern fur seals and beluga whales. For my honors thesis, I focused on the correlation between eye state and sleep state, scored using both qualitative visual scoring and quantitative scoring based on spectral power analysis of EEG data.\n\nPublication: Kendall-Bar, J.M., Mukhametov, L.M., Siegel, J.M., Lyamin, O.I. (2016). Eye state asymmetry during aquatic unihemispheric slow wave sleep in northern fur seals (Callorhinus ursinus). PLoS ONE 14(5): e0217025. DOI 10.1371/journal.pone.0217025.\n\n## Pilot Whale Photo Identification — Summer 2015\nMovement and occurrence of pilot whales. Advisors: Jay Barlow and Dave Weller, Southwest Fisheries Science Center NOAA. At NOAA’s Southwest Fisheries Science Center in La Jolla, I created a photo-identification catalog, conducted an analysis of matches, and compiled a short note published in Aquatic Mammals.\n\n## Moorean Morays — Fall 2014\nBehavior and den fidelity in moray eels on Moorea. I characterized moray eel behavior using a tailored ethogram and formulated behavioral comparisons across groups of morays, with attention to temporal, tidal, and weather patterns.\n\n## Chemical Oceanography Research Cruises — August 2016, January 2013, October 2012\nAboard the RV Oceanus, RV Point Sur, and RV New Horizon. Advisor: Jim Bishop, UC Berkeley. I deployed carbon-profiling robots, CTD sensors, plankton nets, sediment PIT traps, McClane pumps, filtered ocean water samples for particulate inorganic carbon, filmed and analyzed diel vertical migration of zooplankton, and served as photographer/videographer for Lawrence Berkeley National Lab's Oceanbots blog.\n\n## Sexual Selection in the Maritime Earwig — Summer 2014\nAdvisor: Vikram K. Iyengar, Villanova University. Publication: Kendall-Bar, J.M., Iyengar, V.K. (2016). Sexual selection by the seashore: the roles of body size and weaponry in mate choice and competition in the maritime earwig (Anisolabis maritima). Behavioral Ecology and Sociobiology.\n\n## Octopus Behavior Research — 2013–2014\nFeeding behavior and repeated drill locations in shells.\n\n## Internship at The Marine Mammal Center — Summer 2013\nVideo internship documenting patient care, surgeries, necropsies, releases, rescues, and instructional volunteer videos.\n\n## Water Quality Testing for Surfrider LA — 2009–2012\nTeach and Test program at Santa Monica High School; club water quality testing and first-flush response."
+  },
+  {
+    "slug": "teaching",
+    "url": "https://www.jessiekb.com/teaching",
+    "title": "Teaching",
+    "status": "captured",
+    "priority": "keep; update for CSUMB courses",
+    "section": "teaching",
+    "summary": "Courses taught and science communication video embeds.",
+    "body": "# Teaching\n\n## New Coursera Course\nData-Driven Animation for Science Communication.\n\nMy brand new course Data-Driven Animation for Science Communication was first taught as a UC-wide online course [UCSC SCIC110] in Spring 2023 and then brought to learners worldwide on Coursera in Fall 2023.\n\nThis course was created in collaboration with UCSC Online Education, UCSC Science Communication Program, CSUMB Science Illustration Program, and Burroughs Wellcome Fund.\n\n## Courses Taught\n- 2023 — Instructor & Course Designer — Coursera MOOC — Data-Driven Animation for Science Communication\n- 2023 — Instructor & Course Designer — UC Online & UCSC Science Communication Program — SCIC110: Data-Driven Animation for Science Communication\n- 2022 — Instructor & Course Designer — CSU Monterey Bay Science Illustration Program — SCIP395-33_SU22: Data-Driven Animation for Science Communication\n- 2022 — Instructor & Course Designer — Pixar University — Visualizing Life in the Deep: data-driven animation using animal-borne sensors at sea\n- 2021 — Instructor & Course Designer — UC Santa Cruz — Art 199/299: Data Visualization Collective\n- 2019 — Teaching Assistant — UC Santa Cruz — BIOE 129L: Marine Mammals\n- 2016 — Teaching Assistant & Collector — UC Berkeley — IB103LF: Invertebrate Zoology\n- 2014–16 — Teaching Assistant & Course Designer — UC Berkeley — Oceans C82\n\n## Science Communication Videos\nCCCR Visualization Overview; Jessica Kendall-Bar: Science & SciLifeLab Prize for Young Scientists category winner 2023."
+  },
+  {
+    "slug": "artforscicomm",
+    "url": "https://www.jessiekb.com/artforscicomm",
+    "title": "Art for SciComm",
+    "status": "captured",
+    "priority": "keep as resource hub; update email/links",
+    "section": "teaching + portfolio",
+    "summary": "Online portal for data-driven animation resources and workshops.",
+    "body": "# Art for SciComm\nOnline learning portal for visualizing data to facilitate research, communication, and conservation.\n\n## Data-Driven Animation for Science Communication\nIn this freely available MOOC, each student creates a scientific animation that tells a story with data to better communicate scientific results — learning programming, science writing, and technical animation skills.\n\nThis course trains students in data-based storytelling that promotes research and science communication for the benefit of communities and policymakers. Students draft a science writing script, create custom raster and vector graphics, data visualizations, and animations in Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Premiere Pro, and Autodesk Maya. For their final project, students assemble these data-driven assets into an animated video abstract.\n\n## Visualizing Life in the Deep\nA creative pipeline for data-driven animations to facilitate marine mammal research, outreach, and conservation.\n\n## Intro\nHello students, educators, and scientists! This page shares tools and techniques to visually communicate science and helps students, educators, and scientists navigate digital art for science communication.\n\n## Terms of Use\nResources may contain unpublished data and are intended for educational purposes, not reproduction or redistribution. Please contact the site owner regarding copyright and use permissions or workshops.\n\n## Workshops\n- Animation in PowerPoint\n- Animation in After Effects\n- Animation in Maya\n- Inkscape / Illustrator science illustration"
+  },
+  {
+    "slug": "data-visualization-collective",
+    "url": "https://www.jessiekb.com/data-visualization-collective",
+    "title": "Data Visualization Collective",
+    "status": "captured",
+    "priority": "archive as teaching project; keep selected highlights",
+    "section": "teaching + gallery",
+    "summary": "UCSC collective with student projects and workshop recordings.",
+    "body": "# Data Visualization\nThe convergence of art, science, and technology for digital storytelling.\n\n## Explore our 3D virtual gallery\nThis quarter I led a data visualization collective that brought together undergraduate and graduate students from Art: Games and Playable Media, Computational Media, Ecology and Evolutionary Biology, and Astronomy and Astrophysics.\n\nStudents worked with UCSC scientists to create graphical abstracts with custom graphics, publication-ready figures coded in R/Python/JavaScript, 2D and 3D animations, interactive websites, RShiny apps, ObservableHQ notebooks, and final projects combining course concepts.\n\n## Final projects / student gallery\nThe gallery includes descriptions of each student’s project, the skills they learned, and links to websites/source code. Projects include hydrodynamical simulations of stars and black holes, human impacts on trophic activity patterns, bycatch in fisheries, Scott Creek fish passage, elephant seal census data, California ocean temperature projections, fur seal and sea lion isotopes, cryptic female choice simulations, drought effects on aquatic invertebrates, spring run Chinook salmon graphical abstracts, and Lightscapes of Fear."
+  },
+  {
+    "slug": "lectures",
+    "url": "https://www.jessiekb.com/lectures",
+    "title": "Lectures",
+    "status": "captured",
+    "priority": "keep as media archive",
+    "section": "teaching + media",
+    "summary": "Guest lectures, conference presentations, invited talks.",
+    "body": "# Lectures\nWatch guest lectures, conference presentations, and invited talks.\n\n## UC Berkeley Guest Lecture on Marine Animals: Metazoan Diversity\nDuration: 53:27. Annual lecture for UC Berkeley's EPS/IB Oceans C82 course with an overview of invertebrate diversity.\n\n## Everything Matters | Calcium | Jessica Kendall-Bar | Exploratorium\nDuration: 22:45. Calcium is vital for intracellular communication, bones, shell formation, and plankton shells that pump carbon from atmosphere to ocean depths."
+  },
+  {
+    "slug": "videos",
+    "url": "https://www.jessiekb.com/videos",
+    "title": "Videos",
+    "status": "captured",
+    "priority": "keep as portfolio/video archive",
+    "section": "portfolio",
+    "summary": "Animations, science communication videos, underwater videos.",
+    "body": "# Videos\n\n## Animations\nExplore animations created in Adobe Animate, After Effects, Autodesk Maya, and MATLAB.\n\n### Skinny seals sacrifice safety for sustenance\nAnimation by Jessica Kendall-Bar. Elephant seal illustrations by Danielle Dube through an Art-Science Residency with the Norris Center for Natural History. Music by Connor Vance.\n\n### Visualizing Life in the Deep\nVideo abstract for the manuscript \"Visualizing Life in the Deep: A Creative Pipeline for Data-Driven Animations to Facilitate Marine Mammal Research, Outreach, and Conservation.\" The workflow turns animal-borne tag data into animations and sound to facilitate research, communication, and conservation.\n\n### The Value of US Coral Reefs for Flood Risk Reduction in Nature Sustainability\nCoral reefs in the US prevent flooding to 53,833 people, economic damages by $5.3 billion, and additional flooding of 113 km2 for the 100-year storm. If 1 m of reefs are lost, floodplains and damages increase substantially.\n\n### Selkie Dreams Animation\nA surreal underwater dream animation about fur seal sleep, unihemispheric sleep, eye state, and the watery boundary between science and myth.\n\n## Science Communication Videos\n- CCCR Visualization Overview\n- Science & SciLifeLab Prize for Young Scientists category winner 2023\n\n## Underwater Videos\n- Harbor Seal USC Wrigley Catalina March 24 2019\n- A Week full of Ocean Exploration at Home\n- Sea Lions frolicking at the Monterey Breakwater\n- Scuba Diving on Aumentos Reef in Monterey, CA"
+  },
+  {
+    "slug": "art",
+    "url": "https://www.jessiekb.com/art",
+    "title": "Art",
+    "status": "captured",
+    "priority": "rebuild as personal portfolio gallery",
+    "section": "portfolio",
+    "summary": "Art portfolio landing page: children’s books, science communication, woodburning, infographics, animations, photography, comics, media.",
+    "body": "# Art\n\n## Illustrated Children’s Books\n- The Castor Oil Rig Tales — follow dozens of marine creatures as they find sanctuary in an abandoned oil rig.\n- Looking for Marla — follow a clownfish in transition as they find their way through fatherhood into motherhood.\n\n## Science Communication\n- Woodburnings\n- Infographics\n- Animations\n- Science comics\n- Photography\n- Cinematography\n\n## Animations\n- Skinny seals sacrifice safety for sustenance\n- Visualizing Life in the Deep\n\n## Art mediums\n- Woodburnings: made with soldering iron and wood grain.\n- Marker: bright alcohol-based marker illustrations.\n- Digital Art: logos, T-shirts, scientific illustrations.\n- Other Media: watercolor, acrylic, dirt, and mixed media."
+  },
+  {
+    "slug": "fine-art",
+    "url": "https://www.jessiekb.com/fine-art",
+    "title": "Fine Art / Portfolio",
+    "status": "captured",
+    "priority": "merge with /art",
+    "section": "portfolio",
+    "summary": "Portfolio overview for art mediums, projects, commissions, store links.",
+    "body": "# Art Portfolio\nBrowse art gallery by medium: woodburning, marker, digital, other media.\n\n## Projects\nLong-term art projects include Communicating Science: Animating the Ocean's Biological Carbon Pump and The Castor Oil Rig Tales.\n\n## Commissions\nI love working with clients to bring their visions to life. I have been hired to illustrate children's books and numerous woodburnings. Get in touch to discuss creative ideas.\n\n## Online Art Store\nGet originals and prints of illustrations. For photography prints, go to the photo store."
+  },
+  {
+    "slug": "photography",
+    "url": "https://www.jessiekb.com/photography",
+    "title": "Photography",
+    "status": "captured",
+    "priority": "rebuild as protected gallery, no storefront",
+    "section": "portfolio gallery",
+    "summary": "Photography landing page with shop links and subject categories.",
+    "body": "# Photography\nBrowse photos by subject matter and download favorites. [Old storefront copy to be replaced.]\n\n## Order Prints\nOld copy: order high quality prints on canvas, metal, paper, phone cases, tote bags, pillows, mugs, and more. [Replace with: inquire for licensed prints; no direct downloads.]\n\n## Is this you? Did I see you in the water?\nClick below to email me and see if I got any photos of you.\n\n## Categories\n- Echinoderms\n- Marine Mammals\n- Tropical Fish\n- Surf Photography\n- Gelatinous\n- Octopus\n- Kelp Forest Fish\n- Tropical Fish 4"
+  },
+  {
+    "slug": "photo-store",
+    "url": "https://www.jessiekb.com/photo-store",
+    "title": "Photo Store",
+    "status": "partial: search snippet only; page fetch failed",
+    "priority": "remove storefront, redirect to gallery/licensing",
+    "section": "legacy store",
+    "summary": "Old photo store; user requested not to maintain store components.",
+    "body": "# Photo Store [Legacy]\nPublic snippet captured: \"WELCOME TO MY PHOTO STORE. Browse the photos below by subject matter and select a photo license or print which best suits your needs!\"\n\nRecommendation: remove direct store, replace with protected gallery and contact/licensing CTA. Suggested redirect: /photo-store -> /photography or /gallery."
+  },
+  {
+    "slug": "art-store",
+    "url": "https://www.jessiekb.com/art-store",
+    "title": "Art Store",
+    "status": "captured",
+    "priority": "decommission store; move items to gallery/archive",
+    "section": "legacy store",
+    "summary": "Store categories and prices; to be replaced by gallery/inquiry flow.",
+    "body": "# Art Store [Legacy]\n\nProducts listed:\n- Phone cases: $34–44; iPhones 5-X & SE, Samsung Galaxy S5-8\n- Mugs: $18; ceramic 11 oz. mug\n- Tote bags: $48; 16x16 inch light polyester with durable handle\n- Pillows: from $72; faux suede in four sizes\n- Prints: from $56; metal prints, canvas prints, acrylic prints and blocks, matte art posters, glossy photo prints\n\nOld copy: Click on an image to see available options. No available original artwork for sale at the moment, check back soon or inquire about a commission.\n\nRecommendation: preserve this as an offline/legacy content note only; redirect public page to portfolio/gallery or commissions."
+  },
+  {
+    "slug": "looking-for-marla",
+    "url": "https://www.jessiekb.com/looking-for-marla",
+    "title": "Looking for Marla",
+    "status": "captured",
+    "priority": "keep as book/project page",
+    "section": "books",
+    "summary": "Children’s book project, order links, donation, creators, motivation/testimonials/sneak peek.",
+    "body": "# Looking for Marla\nThe Story of a Fish's Transition.\n\n## Support local bookstores\nBookshop Santa Cruz. After selling out last year, we've ordered 500 new books for you to stock up on. Order books now.\n\nInterested in subsidized pricing or stocking our book at your institution? LookingForMarlaBook@gmail.com\n\nOrder through Bookshop Santa Cruz for local pick up or shipping.\n\n## Donate\nDon't need another book but want to support our project? This helps recuperate printing costs and allows us to start donating proceeds.\n\nLooking for Marla follows the tale of a curious clownfish in transition as they find their way through fatherhood, and into motherhood. In wild clownfish populations, a male will transition into the role of the dominant female of the community when the female is removed. This biological fact is omitted from Finding Nemo and is a story that Looking for Marla helps to share and correct.\n\nLooking for Marla hopes to inspire readers of all ages on their own journey of gender expression and self-exploration, while they discover the diversity of parental care strategies in the underwater world.\n\n## About the creators\nMeet Paloma, Audrey, & Jessie.\n\n## Additional sections\n- Motivation\n- Buy your book\n- Testimonials in support of Marla\n- Sneak peek\n\n## Audience note\nThis book is for educators, parents, youth, and anyone wanting to learn about sex and gender diversity in nature and gender pronouns in a fun way."
+  },
+  {
+    "slug": "in-the-press",
+    "url": "https://www.jessiekb.com/in-the-press",
+    "title": "In the Press",
+    "status": "captured",
+    "priority": "keep; make filterable timeline",
+    "section": "press",
+    "summary": "Large press timeline from 2016–2024 covering EcoViz, sleep at sea, awards, videos, book, science communication.",
+    "body": "# In the Press\nScience communication at work.\n\nCategories: news articles, op-eds, videos, podcasts, radio.\n\n## Selected entries\n- Dec 17 2024 — UC Santa Cruz News — Scientists collaborate on immersive technology to address climate challenges — Mike Peña.\n- Dec 12 2024 — UC San Diego Today — Scientists Combine Immersive Technology and Collaboration to Address Climate Challenges — Kimberly Mann Bruch.\n- Oct 14 2024 — IEEE VIS 2024 — EcoViz: an iterative methodology for designing multifaceted data-driven environmental visualization.\n- Nov 20 2023 — Just Get Wet Freediving — Kelp art collaboration for conservation — Delaney Wahl.\n- Nov 16 2023 — UC Santa Cruz News — UCSC doctoral graduate wins prestigious Science & SciLifeLab Prize for Young Scientists — Elisa Smith.\n- Apr 26 2023 — KPBS — Study: Elephant seals at sea sleep just two hours a day — Thomas Fudge.\n- Apr 23 2023 — Behind the News TV — Viral TikTok video based on data-driven animation with >2 million views.\n- Apr 20 2023 — National Geographic — 2 hours of sleep a day? How this animal can survive is a mystery — Jessica Price.\n- Apr 20 2023 — Science Podcast — Mapping uncharted undersea volcanoes, and elephant seals dive deep to sleep — Sarah Crespi.\n- Apr 20 2023 — CNN — Elephant seals enter sleep spiral during deep ocean dives — Ashley Strickland.\n- Apr 20 2023 — NPR — Think you're tired? This animal goes for months with only two hours of sleep a day — Ari Daniel.\n- Apr 20 2023 — Washington Post — Scientists crack the mystery of elephant seals’ extreme sleep habits — Carolyn Johnson.\n- Apr 20 2023 — BBC — Northern elephant seals sleep in the deep to avoid predators — Victoria Gill.\n- Apr 20 2023 — The New York Times — Elephant Seals Take Power Naps During Deep Ocean Dives — Annie Roth.\n- Apr 20 2023 — The Atlantic — Meet the World’s Most Hard-Core Nappers — Katherine Wu.\n- Oct 31 2022 — UC Santa Cruz News — Two UCSC alumni win awards for excellence in science communication — Tim Stephens.\n- Oct 12 2022 — National Academies — Inaugural recipients of Eric and Wendy Schmidt Awards for Excellence in Science Communications.\n- Mar 24 2022 — UCSC Online Education — Data Driven Animation for Science Communication Promo.\n- Oct 27 2021 — UC Santa Cruz News — Data-driven animations of marine mammals combine biology, art, and computation — Tim Stephens.\n- Mar 17 2021 — The Conversation — Risk versus reward on the high seas — Roxanne Beltran & Jessica Kendall-Bar.\n- Feb 25 2021 — Seymour Marine Discovery Center — Labside Chats.\n- 2020 — Santa Cruz Naturalist / KSQD Radio — Art as Science Communication; How do elephant seals sleep? Parts 1 and 2.\n- Nov 30 2019 — Santa Cruz Sentinel — Looking for Marla teaches inclusivity.\n- Nov 7 2019 — UC Santa Cruz News — Launch party for Looking for Marla.\n- Aug 30 2019 — KSQD Community Radio — Interview with Ventana Surfboards.\n- Jul 16 2019 — UC Santa Cruz News — Combining science and illustration.\n- Feb 20 2019 — Salted Spirit Podcast — An Enchanted Tour of the Kelp Forest.\n- Aug 2016 — UC Berkeley/EPS — Third expedition at sea / floating classroom."
+  },
+  {
+    "slug": "carbon-sequestration-animation",
+    "url": "https://www.jessiekb.com/carbon-sequestration-animation",
+    "title": "Animating the Ocean Biological Carbon Pump",
+    "status": "captured",
+    "priority": "portfolio case study",
+    "section": "portfolio + teaching",
+    "summary": "Carbon pump animation project with Nicolas Kendall-Bar and Exploratorium talk context.",
+    "body": "# Communicating Science: Animating the Ocean's Biological Carbon Pump\nThis is a project I worked on for about a year with my talented brother, Nicolas Kendall-Bar. I worked on the science and designs and my brother vividly brought it all to life. This complex process has been greatly simplified, but it demonstrates the incredible importance of the ocean in all of our lives.\n\nThe Exploratorium invited me to present this animation and other work on carbon chemistry in the ocean during their After Dark “Everything Matters: Tales of the Periodic Table” series. On March 16th 2017, I shared the recent findings of our research team with a room full of professors, advisors, friends, and members of the public. I enjoyed the challenge of creating a talk geared toward the general public that relied on powerful graphics and storytelling to communicate science."
+  },
+  {
+    "slug": "science-comics",
+    "url": "https://www.jessiekb.com/science-comics",
+    "title": "Science Comics",
+    "status": "partial via search snippet",
+    "priority": "keep as archive/gallery",
+    "section": "portfolio",
+    "summary": "Comic series about genomic conflict, marine mammals, mating tactics, voting, cooperation, mentorship, social structure, experimental design.",
+    "body": "# Science Comics\nI was having a hard time staying focused and motivated while studying for my comprehensive exams, especially because I find it isolating to study alone. I thought it could be fun to start sharing these cartoons I've been drawing.\n\nCaptured topics include:\n1. Genomic Conflict\n2. Marine mammal comic / phocid vs otariid energetics\n3. How to Win a Gal in 10 Days\n4. Lessons in Democracy from the Animal Kingdom\n5. To Share or Not to Share\n6. Mentorship\n7. Social Structure\n10. Experimental Design\n\nRecommendation: archive as a scrollable comics gallery with short science notes and optional alt text."
+  },
+  {
+    "slug": "castor-oil-rig-tales",
+    "url": "https://www.jessiekb.com/castor-oil-rig-tales",
+    "title": "Castor Oil Rig Tales",
+    "status": "partial via search snippet",
+    "priority": "keep as book illustration project",
+    "section": "books + portfolio",
+    "summary": "Children’s book illustration commission about marine organisms colonizing an abandoned oil rig.",
+    "body": "# The Castor Oil Rig Tales\nI was commissioned to illustrate a fascinating and thrilling children's book about a community of organisms which colonize an abandoned oil rig, written by Sue Partenheimer. I illustrated one black-and-white portrait of each character and one larger colored illustration of a scene from each chapter."
+  },
+  {
+    "slug": "contact",
+    "url": "https://www.jessiekb.com/contact",
+    "title": "Contact",
+    "status": "partial via search snippet",
+    "priority": "keep; modernize form",
+    "section": "contact",
+    "summary": "Contact page for illustration commissions, print inquiries, surf/underwater shoots, research inquiries.",
+    "body": "# Contact Me\nUse this form if you are interested in:\n- Commissioning an illustration\n- Ordering prints of illustrations or photographs\n- Booking a surf or underwater shoot\n- Research-related inquiries\n\nRecommendation: split CTA buttons by intent: Research/lab inquiries, Portfolio/commissions, Media/press, Speaking/teaching."
+  }
+]
